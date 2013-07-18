@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="790B0B80-F28B-4A41-9F21-A631A50BF2A6">
+  <lastEdited clientType="local-build-20130718" date="2013-07-18 20:55:07 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>GRIDS Group Presentation</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Just an one hour presentation about myself, my previous research work, and what I can contribute to the group from my previous experiences.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Introduction Presentation</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 2 June 2008&lt;/b&gt;</richText>
+  </textBox>
+</content>

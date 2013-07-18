@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:207B585C-15BF-40EE-A91E-F42C76F33A84</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-07-18T22:55:06+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:2F837C81-424D-45F0-B411-37E9606CC593</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">2F837C81-424D-45F0-B411-37E9606CC593</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2013-07-18T22:55:06.001+02:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DAC96800-C471-4B85-89B2-610E9BD303F1</id>
+  <title>My Research</title>
+  <title xmlns="urn:iweb:">My Research</title>
+  <in-navbar xmlns="urn:iweb:">DAC96800-C471-4B85-89B2-610E9BD303F1</in-navbar>
+  <link rel="alternate" href="My_Research.html"/>
+  <updated>2013-07-18T22:55:06.002+02:00</updated>
+  <content>My Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CC7D09DE-5995-409D-A342-A53ED9B972B6</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">CC7D09DE-5995-409D-A342-A53ED9B972B6</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2013-07-18T22:55:06.003+02:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:055D6513-1D5D-4E7B-9637-D5A1562FF380</id>
+  <title>Contact Me</title>
+  <title xmlns="urn:iweb:">Contact Me</title>
+  <in-navbar xmlns="urn:iweb:">055D6513-1D5D-4E7B-9637-D5A1562FF380</in-navbar>
+  <link rel="alternate" href="Contact_Me.html"/>
+  <updated>2013-07-18T22:55:06.004+02:00</updated>
+  <content>Contact Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F012FD5E-E673-4125-8256-0EFDA424F581</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">F012FD5E-E673-4125-8256-0EFDA424F581</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2013-07-18T22:55:06.005+02:00</updated>
+  <content>Blog</content>
+ </entry>
+</feed>

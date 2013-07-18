@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="790B0B80-F28B-4A41-9F21-A631A50BF2A6">
+  <lastEdited clientType="local-build-20130718" date="2013-07-18 20:55:07 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>My Blog Now on Twitter</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Follow_me_on_twitter_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="154px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;a href="http://twitter.com/adicosta"&gt;http://twitter.com/adicosta&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Follow me on twitter</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, 16 April 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>
