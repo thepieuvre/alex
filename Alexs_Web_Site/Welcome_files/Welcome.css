@@ -7,6 +7,11 @@
 .style_2 {
     padding: 0px;
 }
+.style_External_400_321 {
+    bottom: 0px;
+    position: relative;
+    width: 400px;
+}
 .style_3 {
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 15px;
@@ -40,23 +45,18 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_External_515_43 {
     bottom: 0px;
     position: absolute;
     width: 515px;
 }
-.style_SkipStroke_4 {
+.style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
 }
-.style_External_400_254 {
-    bottom: 0px;
-    position: relative;
-    width: 400px;
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
 }
 .Body {
     color: rgb(81, 81, 81);
@@ -137,7 +137,7 @@
     position: absolute;
     width: 515px;
 }
-.Normal_External_400_254 {
+.Normal_External_400_321 {
     bottom: 0px;
     position: absolute;
     width: 400px;
@@ -205,34 +205,6 @@ a:hover {
     color: rgb(224, 133, 102);
     text-decoration: underline;
 }
-#widget1 a:visited {
-    color: rgb(66, 66, 66);
-    text-decoration: none;
-}
-#widget0 a:visited {
-    color: rgb(66, 66, 66);
-    text-decoration: none;
-}
-#widget1 a:hover {
-    color: rgb(224, 133, 102);
-    text-decoration: underline;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget2 a:visited {
-    color: rgb(66, 66, 66);
-    text-decoration: none;
-}
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget0 a {
-    color: rgb(183, 97, 78);
-    text-decoration: none;
-}
 #widget1 a {
     color: rgb(183, 97, 78);
     text-decoration: none;
@@ -241,13 +213,29 @@ a:hover {
     color: rgb(224, 133, 102);
     text-decoration: underline;
 }
-#widget2 a {
+#widget1 a:hover {
+    color: rgb(224, 133, 102);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(66, 66, 66);
+    text-decoration: none;
+}
+#widget0 a {
     color: rgb(183, 97, 78);
     text-decoration: none;
 }
-#widget2 a:hover {
-    color: rgb(224, 133, 102);
-    text-decoration: underline;
+#widget1 a:visited {
+    color: rgb(66, 66, 66);
+    text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
 }
 .bumper {
     font-size: 1px;
