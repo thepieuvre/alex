@@ -1,0 +1,58 @@
+---
+layout: research
+---
+<div class="container">
+  <div class="row">
+    <h1>Research (past) Contributions</h1>
+
+    <h3>Research Fellow: InterGrid - Internetworking Islands Of Grid <small>May 2008-December 2009</small></h3>
+    <p>
+    The objective of this project is to develop a system and algorithms for   internetworking / peering between different Grids. Grid computing enables the creation of Cyberinfrastructure for e-Research applications. Several nations around the world including Australia have developed their own national Grids based on the notion of virtual organizations. These dispersed Grid initiatives have resulted in islands of Grids without any support for peering arrangements between them. This limitation will impede
+realization of full potential of the Grid computing paradigm. This InterGrid project aims to revolutionize Grid computing by investigating and developing:
+    </p>
+    <ul>
+      <li>architectural principles for interlinking Grids,</li>
+      <li>mechanisms for resource provisioning and allocation within and across Grids, and</li>
+      <li>peering policies and algorithms for inter-Grid resource management. </li>
+    </ul>
+    <p>
+    Further information <a href="http://www.cloudbus.org/intergrid/">here</a>.
+    </p>
+
+    <h3>Ph.D. Thesis: Branch-and-Bound with Peer-to-Peer for Large-Scale Grids <small>September 2004 - October 2007</small></h3>
+    <p>
+This thesis aims at facilitating the deployment of distributed applications on large-scale Grids, using a peer-to-peer (P2P) infrastructure for computational Grids. Furthermore, this thesis also propose a framework for solving optimization problem with branch-and-bound (B&amp;B) technique.
+    </p>
+    <p>
+Existing models and infrastructures for P2P computing are rather disappointing: only independent worker tasks with in general no communications between tasks, and very low level API. This thesis proposes to define a P2P infrastructure of computational nodes and to provide large-scale Grids. The infrastructure is an unstructured P2P network self-organized and configurable, also allowing deployment of communicant applications.
+    </p>
+    <p>
+P2P environment seems well adapted to applications with low communication/computation ratio, such as parallel search algorithms and more particularly B&amp;B algorithm. In addition, this thesis defines a parallel B&amp;B framework for Grids. This framework helps programmers to distribute their problems over Grids by hiding all distribution issues. The framework is built over a hierarchical master-worker approach and provides a transparent communication system among tasks to improve the computation speedup.
+    </p>
+    <p>
+First, we realized an implementation of this P2P infrastructure on top of the ProActive Java Grid middleware, therefore benefiting from underlying features of ProActive. The P2P infrastructure was deployed as a permanent desktop Grid, with which we have achieved a computation world record by solving the n-queens problem for 25 queens. Second, we achieved an implementation of this B&amp;B framework, also on top of ProActive. We demonstrate the scalability and efficiency of the framework by deploying an application for solving the flow-shop problem on a nationwide Grid (Grid'5000). Finally, we mixed this Grid with our permanent desktop Grid to experiment large-scale deployment of both n-queens and flow-shop.
+    </p>
+
+    <p>Check the <a href="{{ site.baseurl }}/publications">publications section</a> for all publicated work..</p>
+
+    <p>All this work was in integrated in ProActive Grid Middleware:</p>
+
+    <small>
+<a href="http://www-sop.inria.fr/oasis/ProActive/">ProActive</a> is a Java library (Source code under LGPL licence) for parallel, distributed, and concurrent computing, also featuring mobility and security in a uniform framework. With a reduced set of simple primitives, ProActive provides a comprehensive API allowing to simplify the programming of applications that are distributed on Local Area Network (LAN), on cluster of workstations, or on Internet Grids.
+</small>
+
+    <h3>Research Internship: WS-Dispatcher <small>July 2004 - September 2004</small></h3>
+
+    <p>
+  Summer 2004 I had an  internship in <a href="http://www.extreme.indiana.edu/">Indiana University Extreme Lab</a> where I had an occasion to work with a great group of people under guidance of <a href="http://research.microsoft.com/en-us/people/degannon/">Pr. Dennis Gannon</a>.
+    </p>
+    <p>
+I have worked with <a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-aslom">Aleksander Slominski</a> to support reliable long running conversation through firewalls of Web Service peers that have no accessible endpoints (behind firewalls, inside browers). Our solution was to use a Dispatcher with asynchronous communication and use WS-Addressing (WSA) for forwarding requests between clients and Web Services.
+For more informations you can see this page <a href="http://www.extreme.indiana.edu/xgws/dispatcher/">WS-Dispatcher</a> or read this paper: Asynchronous Peer to Peer Web Services and Firewalls accepted at <a href="http://www.labri.fr/Perso/~chaumett/conferences/iwjpdc/2005/iwjpdc2005.html">IWJDPC 2005</a>.
+    </p>
+    <p>
+This work is integrated in <a href="http://www.extreme.indiana.edu/xgws/xsul/">XSUL</a>. <a href="http://www.extreme.indiana.edu/xgws/xsul/">XSUL</a> is third generation XML and Web Services based modular Utility Library and is derived from a previous work on  <a href="http://www.extreme.indiana.edu/xgws/xsoap/">XSOAP</a> that in its turn was derived from SoapRMI.
+    </p>
+
+  </div>
+</div>

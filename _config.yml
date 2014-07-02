@@ -1,10 +1,14 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+name: Alexandre di Costanzo
+author: Alexandre di Costanzo
+title: AdC's Web Site
+markdown: redcarpet
+pygments: true
 baseurl: ""
-url: "http://yourdomain.com"
-
-# Build settings
-markdown: kramdown
+url: "http://www.alexdico.com"
+description: "Scuba DiveMaster and Tech Lead / Software Architect for Cloudy Solutions. Currently in love with Groovy/Grails & I m a big fan of the North Melbourne Kangaroos!"
+github: http://www.github.com/thepieuvre
+twitter: http://www.twitter.com/adicosta
+linkedin: https://www.linkedin.com/in/dicostanzo
+email: alex[at]thepieuvre.com
+location: 43°37'16.5"N 7°02'46.1"E
 permalink: pretty
